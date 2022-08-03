@@ -1,4 +1,4 @@
-# Laravel and React Text To Speach Application
+# Laravel and React IP TV Application
 
 ![Image](1.PNG?raw=true "Image")
 
@@ -8,17 +8,17 @@
 
 ![Image](4.PNG?raw=true "Image")
 
-### <a href="https://youtu.be/YMTKmZ14pfI">LIVE DEMO</a>
-Video link: https://youtu.be/YMTKmZ14pfI
+### <a href="https://youtu.be/re3NzazUrng">LIVE DEMO</a>
+Video link: https://youtu.be/re3NzazUrng
 
 ### How Install
 
 You can simply run the project by following process
 ```shell
-$ git clone https://github.com/Baizidmdashadzzaman/Laravel-React-Text-to-Speach-Application.git
+$ git clone https://github.com/Baizidmdashadzzaman/Laravel-React-IP-TV-Application
 ```
 ```shell
-$ cd Laravel-React-Text-to-Speach-Application
+$ cd Laravel-React-IP-TV-Application
 ```
 ```shell
 $ composer install
